@@ -6,7 +6,7 @@ This is not just for tracking progress but also to understand GPU acceleration p
 If you’re also into CUDA or GPU programming, feel free to follow along. Let’s learn and grow together! 💻🔥
 
 <div align="center" >
-<h2> | 🔥 <b>Current Streak: 4 Days </b> ✅  | 🔥 <b>Longest Streak: 4 Days </b>🎯 | </h2>
+<h2> | 🔥 <b>Current Streak: 5 Days </b> ✅  | 🔥 <b>Longest Streak: 5 Days </b>🎯 | </h2>
 <div>
 
 
