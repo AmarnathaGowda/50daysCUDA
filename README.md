@@ -6,7 +6,7 @@ This is not just for tracking progress but also to understand GPU acceleration p
 If you’re also into CUDA or GPU programming, feel free to follow along. Let’s learn and grow together! 💻🔥
 
 <div align="center" >
-<h2> | 🔥 <b>Current Streak: 7 Days </b> ✅  | 🔥 <b>Longest Streak: 7 Days </b>🎯 | </h2>
+<h2> | 🔥 <b>Current Streak: 8 Days </b> ✅  | 🔥 <b>Longest Streak: 8 Days </b>🎯 | </h2>
 <div>
 
 
@@ -21,5 +21,6 @@ If you’re also into CUDA or GPU programming, feel free to follow along. Let’
 | 5th Feb 2025 | CUDA Thread Hierarchy |Threads, blocks, grids, and execution configuration | Understand and configure the thread hierarchy for efficient kernel execution               | [GitHub Repo](Day5/Day5.md) |Completed🎉
 | 6th Feb 2025 | Memory Management Basics | Global memory, registers, local memory, allocation/deallocation   | Learn how to allocate and manage memory on the GPU           | [GitHub Repo](Day6/Day6.md) |Completed🎉
 | 7th Feb 2025 | Host-Device Data Transfer | cudaMemcpy, pinned memory, asynchronous transfers  | Transfer data between host and device efficiently  | [GitHub Repo](Day7/Day7.md) |Completed🎉
-| 8th Feb 2025 | Kernel Execution Configuration | Grid and block dimensions, thread indexing, boundary checking  | Configure and launch kernels effectively with proper grid settings | [GitHub Repo]() |In Progress 🚧
+| 8th Feb 2025 | Kernel Execution Configuration | Grid and block dimensions, thread indexing, boundary checking  | Configure and launch kernels effectively with proper grid settings | [GitHub Repo](Day8/Day8.md) |Completed🎉
+| 9th Feb 2025 | Error Handling & Debugging in CUDA | Error codes, cudaError_t, debugging tools (e.g., cuda-memcheck) | Debug CUDA code and handle runtime errors effectively | [GitHub Repo]() |In Progress 🚧
 </div>
