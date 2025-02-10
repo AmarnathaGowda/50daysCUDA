@@ -23,5 +23,6 @@ If you’re also into CUDA or GPU programming, feel free to follow along. Let’
 | 7th Feb 2025 | Host-Device Data Transfer | cudaMemcpy, pinned memory, asynchronous transfers  | Transfer data between host and device efficiently  | [GitHub Repo](Day7/Day7.md) |Completed🎉
 | 8th Feb 2025 | Kernel Execution Configuration | Grid and block dimensions, thread indexing, boundary checking  | Configure and launch kernels effectively with proper grid settings | [GitHub Repo](Day8/Day8.md) |Completed🎉
 | 9th Feb 2025 | Error Handling & Debugging in CUDA | Error codes, cudaError_t, debugging tools (e.g., cuda-memcheck) | Debug CUDA code and handle runtime errors effectively | [GitHub Repo](Day9/Day9.md) |Completed🎉
-| 10th Feb 2025 | Profiling & Performance Metrics | NVIDIA Visual Profiler, occupancy metrics, performance analysis | Profile CUDA applications to identify performance bottlenecks | [GitHub Repo]() |In Progress 🚧
+| 10th Feb 2025 | Profiling & Performance Metrics | NVIDIA Visual Profiler, occupancy metrics, performance analysis | Profile CUDA applications to identify performance bottlenecks | [GitHub Repo](Day10/Day10.md) |Completed🎉
+| 11th Feb 2025 | Introduction to Shared Memory | Shared vs. global memory, bank conflicts, shared memory usage | Use shared memory to improve data access efficiency in kernels | [GitHub Repo]() |In Progress 🚧
 </div>
