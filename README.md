@@ -6,7 +6,7 @@ This is not just for tracking progress but also to understand GPU acceleration p
 If you’re also into CUDA or GPU programming, feel free to follow along. Let’s learn and grow together! 💻🔥
 
 <div align="center" >
-<h2> | 🔥 <b>Current Streak: 13 Days </b> ✅  | 🔥 <b>Longest Streak: 13 Days </b>🎯 | </h2>
+<h2> | 🔥 <b>Current Streak: 14 Days </b> ✅  | 🔥 <b>Longest Streak: 14 Days </b>🎯 | </h2>
 <div>
 
 
@@ -27,5 +27,6 @@ If you’re also into CUDA or GPU programming, feel free to follow along. Let’
 | 11th Feb 2025 | Introduction to Shared Memory | Shared vs. global memory, bank conflicts, shared memory usage | Use shared memory to improve data access efficiency in kernels | [GitHub Repo](Day11/Day11.md) |Completed🎉
 | 12th Feb 2025 | Memory Coalescing Techniques | Global memory access patterns, coalesced memory accesses| Optimize memory accesses to enhance throughput | [GitHub Repo](Day12/Day12.md) |Completed🎉
 | 13th Feb 2025 | Synchronization & Barriers | __syncthreads(), thread synchronization techniques| Synchronize threads within a block to prevent race conditions | [GitHub Repo](Day13/Day13.md) |Completed🎉
-| 14th Feb 2025 | Kernel Optimization Techniques | Loop unrolling, minimizing branch divergence, performance tuning| Improve kernel performance using optimization strategies| [GitHub Repo]() |In Progress 🚧
+| 14th Feb 2025 | Kernel Optimization Techniques | Loop unrolling, minimizing branch divergence, performance tuning| Improve kernel performance using optimization strategies| [GitHub Repo](Day14/Day14.md) |Completed🎉
+| 15th Feb 2025 | Using Constant Memory | Declaration and use of constant memory, caching behavior | Leverage constant memory for read-only data to speed up access| [GitHub Repo]() |In Progress 🚧
 </div>
