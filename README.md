@@ -28,5 +28,6 @@ If you’re also into CUDA or GPU programming, feel free to follow along. Let’
 | 12th Feb 2025 | Memory Coalescing Techniques | Global memory access patterns, coalesced memory accesses| Optimize memory accesses to enhance throughput | [GitHub Repo](Day12/Day12.md) |Completed🎉
 | 13th Feb 2025 | Synchronization & Barriers | __syncthreads(), thread synchronization techniques| Synchronize threads within a block to prevent race conditions | [GitHub Repo](Day13/Day13.md) |Completed🎉
 | 14th Feb 2025 | Kernel Optimization Techniques | Loop unrolling, minimizing branch divergence, performance tuning| Improve kernel performance using optimization strategies| [GitHub Repo](Day14/Day14.md) |Completed🎉
-| 15th Feb 2025 | Using Constant Memory | Declaration and use of constant memory, caching behavior | Leverage constant memory for read-only data to speed up access| [GitHub Repo]() |In Progress 🚧
+| 15th Feb 2025 | Using Constant Memory | Declaration and use of constant memory, caching behavior | Leverage constant memory for read-only data to speed up access| [GitHub Repo](Day15/Day15.md) |Completed🎉
+| 16th Feb 2025 | Using Texture Memory | Texture memory basics, binding textures, caching advantages | Utilize texture memory for efficient access in image processing tasks| [GitHub Repo](Day16/Day16.md) |In Progress 🚧
 </div>
