@@ -6,7 +6,7 @@ This is not just for tracking progress but also to understand GPU acceleration p
 If you’re also into CUDA or GPU programming, feel free to follow along. Let’s learn and grow together! 💻🔥
 
 <div align="center" >
-<h2> | 🔥 <b>Current Streak: 17 Days </b> ✅  | 🔥 <b>Longest Streak: 17 Days </b>🎯 | </h2>
+<h2> | 🔥 <b>Current Streak: 18 Days </b> ✅  | 🔥 <b>Longest Streak: 18 Days </b>🎯 | </h2>
 <div>
 
 
@@ -31,5 +31,6 @@ If you’re also into CUDA or GPU programming, feel free to follow along. Let’
 | 15th Feb 2025 | Using Constant Memory | Declaration and use of constant memory, caching behavior | Leverage constant memory for read-only data to speed up access| [GitHub Repo](Day15/Day15.md) |Completed🎉
 | 16th Feb 2025 | Using Texture Memory | Texture memory basics, binding textures, caching advantages | Utilize texture memory for efficient access in image processing tasks| [GitHub Repo](Day16/Day16.md) |Completed🎉
 | 17th Feb 2025 | Advanced Memory Management| Pinned memory, zero-copy memory, unified memory concepts | Explore advanced memory techniques for significant performance gains| [GitHub Repo](Day17/Day17.md) |Completed🎉
-| 18th Feb 2025 | CUDA Streams & Asynchronous Execution| Stream creation, asynchronous kernel launches, overlapping transfers | Manage concurrent operations using CUDA streams| [GitHub Repo](Day18/Day18.md) |In Progress 🚧
+| 18th Feb 2025 | CUDA Streams & Asynchronous Execution| Stream creation, asynchronous kernel launches, overlapping transfers | Manage concurrent operations using CUDA streams| [GitHub Repo](Day18/Day18.md) |Completed🎉
+| 19th Feb 2025 | Concurrent Kernel Execution | Overlapping kernel launches, multi-stream management | Launch kernels concurrently to maximize GPU utilization| [GitHub Repo](Day19/Day19.md) |In Progress 🚧
 </div>
