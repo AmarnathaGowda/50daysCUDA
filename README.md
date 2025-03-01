@@ -6,7 +6,7 @@ This is not just for tracking progress but also to understand GPU acceleration p
 If you’re also into CUDA or GPU programming, feel free to follow along. Let’s learn and grow together! 💻🔥
 
 <div align="center" >
-<h2> | 🔥 <b>Current Streak: 1 Days </b> ✅  | 🔥 <b>Longest Streak: 18 Days </b>🎯 | </h2>
+<h2> | 🔥 <b>Current Streak: 1 Days </b> ✅  | 🔥 <b>Longest Streak: 20 Days </b>🎯 | </h2>
 <div>
 
 
@@ -32,5 +32,8 @@ If you’re also into CUDA or GPU programming, feel free to follow along. Let’
 | 16th Feb 2025 | Using Texture Memory | Texture memory basics, binding textures, caching advantages | Utilize texture memory for efficient access in image processing tasks| [GitHub Repo](Day16/Day16.md) |Completed🎉
 | 17th Feb 2025 | Advanced Memory Management| Pinned memory, zero-copy memory, unified memory concepts | Explore advanced memory techniques for significant performance gains| [GitHub Repo](Day17/Day17.md) |Completed🎉
 | 18th Feb 2025 | CUDA Streams & Asynchronous Execution| Stream creation, asynchronous kernel launches, overlapping transfers | Manage concurrent operations using CUDA streams| [GitHub Repo](Day18/Day18.md) |Completed🎉
-| 19th Feb 2025 | Concurrent Kernel Execution | Overlapping kernel launches, multi-stream management | Launch kernels concurrently to maximize GPU utilization| [GitHub Repo](Day19/Day19.md) |In Progress 🚧
+| 19th Feb 2025 | Concurrent Kernel Execution | Overlapping kernel launches, multi-stream management | Launch kernels concurrently to maximize GPU utilization| [GitHub Repo](Day19/Day19.md) |Completed🎉
+| 20th Feb 2025 | Advanced Synchronization: Events | Using CUDA events for timing, synchronization, and latency measurement| Utilize events to synchronize operations and measure execution times| [GitHub Repo](Day20/Day20.md) |Completed🎉
+| 01th March 2025 | Introduction to Cooperative Groups | Cooperative thread groups, enhanced synchronization techniques | Understand and implement cooperative groups for complex parallel patterns| [GitHub Repo](Day21/Day21.md) |In Progress 🚧
+| 01th March 2025 | Managing Warp Divergence| Branching strategies, analysis of divergent execution paths | Optimize code to reduce warp divergence and improve performance| [GitHub Repo](Day22/Day22.md) |In Progress 🚧
 </div>
